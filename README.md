@@ -56,11 +56,3 @@ Meu nome é Joel Júnior, sou desenvolvedor de software com 1 ano de experiênci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelJR27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20estat%C3%ADsticas" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoelJR27&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
